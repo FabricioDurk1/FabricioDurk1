@@ -6,7 +6,7 @@
 
 Skills:
 
-HTML5 / CSS6/ Adobe Photoshop
+HTML5 / CSS6/ Adobe Photoshop / inglês basico  
 
 
 <!---
