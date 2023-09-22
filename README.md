@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @FabricioDurk1
 - 👀 Student at federal University of Ceara 
-- Graphic designer
+- Javascript
+- ReactJS
+- JAVA
+- Python
 - Estudante de Sistemas de informações
 - 🦾 Resiliência
 
